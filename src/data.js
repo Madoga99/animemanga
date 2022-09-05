@@ -560,7 +560,7 @@ function chillHop() {
             color: ["#008781", "#cfc08c"],
             audio: "https://ice7.securenetsystems.net/KVSS",
             active: false,
-        }
+        },
          {
             name:"WMET 1160 - Guadalupe Radio Network",
             artist: "Catholic Radios",
