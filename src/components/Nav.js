@@ -9,7 +9,7 @@ const Nav = ({ setLibraryStatus, libraryStatus }) => {
   
     return (
       <nav>
-        <h1>RADIO CATOLICA</h1>
+        <h1>ANIME&MANGA</h1>
         <button
           className={libraryStatus ? "library-active" : ""}
           onClick={openLibraryHandler}
