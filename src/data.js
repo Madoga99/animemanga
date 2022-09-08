@@ -90,7 +90,7 @@ function chillHop() {
             cover: "https://manuappshome.files.wordpress.com/2019/11/japanimradio-fm-pop-rock.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "https://japanimradio.radioca.st/stream,
+            audio: "https://japanimradio.radioca.st/stream",
             active: false,
         },
         {
